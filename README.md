@@ -4,22 +4,14 @@
 # HTML5
 
 1. **Semantics**
-(<header>,
-<footer>,
-<nav>,
-<article>,
-<main>,
-<section>,
-<figure>,
-<figcaption>)
 
 2. **Forms 2.0**
 
-3. **HTML Media**
+3. **HTML Media**-> 
 Audio,
 YouTube(<iframe> tag),
 
-4. **HTML APIs**
+4. **HTML APIs**->
 Drag and drop, 
 Web Storage,
 Geo location
