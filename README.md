@@ -4,14 +4,14 @@
 # HTML5
 
 1. **Semantics**
-<header>,
+(<header>,
 <footer>,
 <nav>,
 <article>,
 <main>,
 <section>,
 <figure>,
-<figcaption>
+<figcaption>)
 
 2. **Forms 2.0**
 
